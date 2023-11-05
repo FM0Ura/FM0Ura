@@ -11,7 +11,6 @@
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FM0ura&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true)
 
-</main>
 - Tecnologias que conheço:
 
 - **Back-end**:
