@@ -13,24 +13,9 @@
 
 - Tecnologias que conheço:
 
-  - **Back-end**:
   <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,java,postgres,py&perline=5" />
-  </a>
-  </p>
-
-  - **Front-end**:
-  <p align="center">
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=css,html,js&perline=5" />
-  </a>
-  </p>
-
-  - **Features**:
-  <p align="center">
-  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,discord,figma,mysql,github,postgres,vscode&perline=5" />
+      <img src="https://skillicons.dev/icons?i=css,html,js,git,discord,figma,mysql,github,postgres,vscode,c,java,postgres,py&perline=10" />
   </a>
   </p>
 
