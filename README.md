@@ -1,30 +1,31 @@
 # Olá! Eu sou Felipe Moura
 
-- 😍 Apaixonado pela área de tecnologia, e todo seu potencial;
-- 👀 Gosto bastante de usar a tecnologia para facilitar os processos cansativos;
-- 📚 Estudando, atualmente:
+Desenvolvedor Backend com foco em C# e Python.
 
-  - ☕ Programação Orientada a Objetos;
-  - 🐍 Automação com Selenium;
-  - 👨‍💻 Desenvolvimento Web;
-  - 💻 Estrutura de Redes;
+Minha especialidade é a construção de aplicações Back-End, incluindo o desenvolvimento de APIs REST e a integração com bancos de dados relacionais (PostgreSQL/MySQL).
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FM0ura&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true)
+### 📚 Atualmente, estou aprofundando meus conhecimentos em:
 
-- Tecnologias que conheço:
+- 📐 Arquitetura de Microsserviços com .NET;
+- 💡 Padrões de Design (Design Patterns) aplicados em C#;
+- 🚀 Otimização de performance em pipelines de dados com Polars e Pandas.
 
-  <p align="center">
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=css,html,js,git,discord,figma,mysql,github,postgres,vscode,c,java,postgres,py&perline=10" />
-  </a>
-  </p>
+---
 
-- 📮 Contatos:
-    <p align="center">
-    <a href="https://www.linkedin.com/in/felipe-moura-80409421a/">
-        <img src="https://skillicons.dev/icons?i=linkedin&perline=5" />
-    </a>
-    <a href="https://www.instagram.com/firipi.somebody/">
-        <img src="https://skillicons.dev/icons?i=instagram&perline=5" />
-    </a>
-    </p>
+### 📊 Minhas Estatísticas no GitHub
+
+[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FM0Ura&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true)](https://github.com/FM0Ura)
+
+---
+
+### 💻 Minhas Principais Ferramentas e Tecnologias
+
+Aqui estão as tecnologias com as quais mais trabalho atualmente:
+
+[![](https://skillicons.dev/icons?i=cs,dotnet,py,postgres,mysql,git,github,vscode,visualstudio&perline=10)](https://skillicons.dev)
+
+---
+
+### 📮 Como me encontrar:
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=5)](https://www.linkedin.com/in/felipe-moura-80409421a/)
